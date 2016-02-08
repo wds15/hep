@@ -1,4 +1,4 @@
-# Sourcecode for "Hierarchical expectation propagation for Bayesian aggregation of average data"
+# Source for "Hierarchical expectation propagation for Bayesian aggregation of average data"
 
 Date: February 1st, 2016
 
@@ -11,10 +11,10 @@ Please cite our work when you use these codes or apply our approach:
 
 _S. Weber, A. Gelman, B. Carpenter, D. Lee, M. Betancourt, A. Vehtari,
 A. Racine (2016), "Hierarchical expectation propagation for Bayesian
-aggregation of average data", arXiv:XXXXX_
+aggregation of average data", arXiv:1602.02055_
 
-To use the code, we recommend to use one of the examples below as
-template and modify it to your needs.
+To use the code, we recommend to start with one of the examples below
+as template and modify it to your needs.
 
 Updates will be posted to https://github.com/wds15/hep
 
@@ -24,7 +24,7 @@ Updates will be posted to https://github.com/wds15/hep
 - `extrap_logistic.R` Logistic example
 - `extrap_pkpd.R` Non-linear PK/PD example
 - `extrap_ep_routine.R` Main EP routine
-- `utils.R` Various utlity functions
+- `utils.R` Various utility functions
 
 # News
 
