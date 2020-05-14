@@ -1,5 +1,11 @@
 # Source for "Hierarchical expectation propagation for Bayesian aggregation of average data"
 
+NOTE: These codes accompany an outdated version of the manuscript host
+as v1 of the arXiv publication linked below. Please refer to the
+updated codes under
+(https://github.com/wds15/baad)[https://github.com/wds15/baad]. This
+repository will likely be retired some time soon.
+
 Date: February 1st, 2016
 
 This repository includes the R and Stan source files used to generate
@@ -7,7 +13,8 @@ the main outputs in our paper on Bayesian aggregation of average data.
 
 The code is distributed under the BSD-3 license, see LICENSE.
 
-Please cite our work when you use these codes or apply our approach:
+Please refer to our newer (and improved) version of the method and
+cite our work when you use these codes or apply our approach:
 
 _S. Weber, A. Gelman, B. Carpenter, D. Lee, M. Betancourt, A. Vehtari,
 A. Racine (2016), "Hierarchical expectation propagation for Bayesian
@@ -29,6 +36,7 @@ Updates will be posted to https://github.com/wds15/hep
 # News
 
 2016-02-01: Initial release.
+2020-05-14: Add note about newer version.
 
 # Software used
 
