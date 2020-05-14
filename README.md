@@ -1,10 +1,10 @@
 # Source for "Hierarchical expectation propagation for Bayesian aggregation of average data"
 
-NOTE: These codes accompany an outdated version of the manuscript host
-as v1 of the arXiv publication linked below. Please refer to the
-updated codes under
+**NOTE:** These codes accompany an outdated version of the manuscript
+hosted as v1 of the arXiv publication linked below. Please refer to
+the updated codes for an improved approach under
 (https://github.com/wds15/baad)[https://github.com/wds15/baad]. This
-repository will likely be retired some time soon.
+`hep` repository will likely be retired some time soon.
 
 Date: February 1st, 2016
 
